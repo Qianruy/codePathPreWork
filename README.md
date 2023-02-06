@@ -20,6 +20,13 @@ The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<img src='https://github.com/Qianruy/codePathPreWork/blob/main/HelloWorldApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with Kap 
 
 ## License
 
